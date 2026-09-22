@@ -31,6 +31,6 @@ Flutter & Dart · Python, OpenCV & MediaPipe · Java plugins for Paper/Spigot ·
 ### Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-rahmadarf-181717?logo=github&logoColor=white)](https://github.com/rahmadarf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmad-arifin-55460b37b/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rahmad4rifin/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?logo=gmail&logoColor=white)](mailto:rahmadarifinsusilo17@gmail.com)
